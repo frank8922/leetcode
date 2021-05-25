@@ -9,4 +9,4 @@ The `Program.cs` file will be run
 
 ## Structure
 Each folder is grouped by type of problem or data structure used. Use the `Program.cs` file in order to run a problem.
-Just create a class and call the appropriate methods.
+Just create a class from the appropriate file and call the appropriate methods (Most classes will contain one method to run, that will be solution to the problem set).
