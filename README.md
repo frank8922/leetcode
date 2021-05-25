@@ -4,7 +4,7 @@
 This repository contains my solutions to leetcode problem sets.
 
 ## Build
-First ensure you have the .Net Framework installed [link](https://dotnet.microsoft.com/) Clone the repository and run `dotnet run` in the toplevel directory.
+First ensure you have the  [.Net Framework](https://dotnet.microsoft.com/) installed  Clone the repository and run `dotnet run` in the toplevel directory.
 The `Program.cs` file will be run
 
 ## Structure
